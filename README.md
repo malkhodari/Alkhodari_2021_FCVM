@@ -5,7 +5,8 @@ This file includes the main code to perform two main tasks, namely estimations (
 
 Paitnet clinical information includes: 1) Anti-arrhythmics medication, 2) Diuretic medication, 3) Age, 4) BMI, 5) Diabetes, 6) Ventricular tachycardia (VT), and 7) Prior myocardial infarction (Prior-MI).
 
-For more information, please visit the main paper at Frontiers in Cardiovascular Medicine: Deep learning predicts heart failure with preserved, mid-range, and reduced left ventricular ejection fraction from patient clinical profiles (published soon!).
+For more information, please visit the main paper at Frontiers in Cardiovascular Medicine: 
+Alkhodari M, Jelinek H, Karlas A, Soulaidopoulos S, Arsenos P, Doundoulakis I, Gatzoulis K, Tsioufis K, Hadjileontiadis L, Khandoker A. Deep learning predicts preserved, mid-range, and reduced left ventricular ejection fraction from patients’ clinical profiles. Heart Failure and Transplantation, Frontiers in Cardiovascular Medicine. 2021. (published soon!)
 
 Make sure to cite it within your research!
 
