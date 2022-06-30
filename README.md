@@ -9,7 +9,7 @@ Deep learning networks for regression and training are provided in deep_learning
 
 For more information, please visit the main paper at Frontiers in Cardiovascular Medicine:
 
-Alkhodari M, Jelinek H, Karlas A, Soulaidopoulos S, Arsenos P, Doundoulakis I, Gatzoulis K, Tsioufis K, Hadjileontiadis L, Khandoker A. Deep learning predicts preserved, mid-range, and reduced left ventricular ejection fraction from patients’ clinical profiles. Heart Failure and Transplantation, Frontiers in Cardiovascular Medicine. 2021. (published soon!)
+Alkhodari M, Jelinek H, Karlas A, Soulaidopoulos S, Arsenos P, Doundoulakis I, Gatzoulis K, Tsioufis K, Hadjileontiadis L, Khandoker A. Deep learning predicts preserved, mid-range, and reduced left ventricular ejection fraction from patients’ clinical profiles. Heart Failure and Transplantation, Frontiers in Cardiovascular Medicine. 2021. https://www.frontiersin.org/articles/10.3389/fcvm.2021.755968/full
 
 Make sure to cite it within your research!
 
