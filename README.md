@@ -1,6 +1,6 @@
 # Deep learning predicts preserved, mid-range, and reduced left ventricular ejection fraction from patients’ clinical profiles
 
-This repository includes all codes needed to reproduce the work presented at "Alkhodari M, Jelinek H, Karlas A, Soulaidopoulos S, Arsenos P, Doundoulakis I, Gatzoulis K, Tsioufis K, Hadjileontiadis L, Khandoker A. Deep learning predicts preserved, mid-range, and reduced left ventricular ejection fraction from patients’ clinical profiles. Heart Failure and Transplantation, Frontiers in Cardiovascular Medicine. 2021. https://doi.org/fcvm.2021.755968".
+This repository includes all codes needed to reproduce the work presented at "Alkhodari M, Jelinek H, Karlas A, Soulaidopoulos S, Arsenos P, Doundoulakis I, Gatzoulis K, Tsioufis K, Hadjileontiadis L, Khandoker A. Deep learning predicts preserved, mid-range, and reduced left ventricular ejection fraction from patients’ clinical profiles. Heart Failure and Transplantation, Frontiers in Cardiovascular Medicine. 2021. https://doi.org/10.3389/fcvm.2021.755968".
 
 Estimating left ventricular ejection fraction (LVEF) levels and predicting LVEF-based heart failure (HF) groups using deep learning and patient clinical profiles.
 HF groups were categorized based on the American Society of Echocardiography and the European Association of Cardiovascular Imaging (ASE/EACVI) guidelines [1-3] into HFpEF (EF > 55%), HFmEF (50% ≤ EF ≤ 55%), and HFrEF (EF < 50%).
